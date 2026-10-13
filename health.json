@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "service": "cs094-static-simulation",
+  "mode": "static",
+  "limitation": "This file is served with HTTP 200. Setting ok=false does not produce HTTP 503."
+}
